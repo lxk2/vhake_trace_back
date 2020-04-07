@@ -8,7 +8,7 @@
       <van-button type="info" class="x-btn" @click="handleDownLoad('https://krtxplay1.setrtmp.com/live/SSSS-117846-FBDFC.m3u8')">东港基地</van-button>
     </div>
     <div class="block">
-      <van-button type="info" class="x-btn" @click="handleDownLoad('https://krtxplay1.setrtmp.com/live/SSSS-117873-CEBBB.m3u8')">北票基地</van-button>
+      <van-button type="info" class="x-btn" @click="handleDownLoad('https://krtxplay1.setrtmp.com/live/SSSS-117991-CAABF.m3u8')">北票基地</van-button>
     </div>
     <div class="block">
       <van-button type="info" class="x-btn" @click="handleDownLoad('https://krtxplay1.setrtmp.com/live/SSSS-117873-CEBBB.m3u8')">喀左基地</van-button>
